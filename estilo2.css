@@ -1,0 +1,44 @@
+*
+body
+{
+	background-position:center center;
+	background-image:url(imagenes/fondo7.jpg);
+	background-attachment: fixed;
+	
+}
+
+h1
+{
+	text-align:center;
+	font-family:verdana;
+	padding-left:100px;
+	padding-right:100px;
+	font-size:30px;
+	font-style:italic;
+}
+
+h2
+{
+	font-family:verdana;
+	font-size:16px;
+	font-style:italic;
+	
+}
+
+p
+{
+	text-decoration:white;
+	text-align:justify;
+	font-family:Verdana;
+	font-weight:300;
+	font-size:15px;
+	margin:20px;
+	padding-left:10px;
+	padding-right:10px;
+	outline-style:outset;
+}
+
+img
+{
+	height:200px;
+}
